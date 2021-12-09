@@ -2,20 +2,20 @@
 
 2015 ICCAD contest benchmarks problem A
 
-## iccad-contest.org/2015/problem_A/
+## http://iccad-contest.org/2015/problem_A/
 
 
 
 
 2015 ICCAD contest benchmarks problem B
 
-## iccad-contest.org/2015/problem_B/
+## http://iccad-contest.org/2015/problem_B/
 
 
 
 2015 ICCAD contest benchmarks problem C
 
-## iccad-contest.org/2015/problem_C/
+## http://iccad-contest.org/2015/problem_C/
 
 
 
